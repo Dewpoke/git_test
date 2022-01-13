@@ -1,0 +1,1 @@
+I am adding text here and seeing what happens with git status in terminal
